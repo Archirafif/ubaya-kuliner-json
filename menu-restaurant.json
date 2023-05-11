@@ -1,0 +1,141 @@
+[
+  {
+    "restaurant_id": 1,
+    "items": [
+      {
+        "menu_id": 1,
+        "name": "Chizu Avocado",
+        "price": "25.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/eskopigoelamerahoatmilk.jpg",
+        "description": "Es Teh dengan Rasa Avocado bertaburkan cream cheese"
+      },
+      {
+        "menu_id": 2,
+        "name": "Es Teh Lemon",
+        "price": "18.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/cappucinooatmilk.jpg",
+        "description": "Es Teh Manis dengan Rasa Lemon yang menyegarkan"
+      },
+      {
+        "menu_id": 3,
+        "name": "Chizu Red Velvet",
+        "price": "25.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/eskopipandanoatmilk.jpg",
+        "description": "Es Teh dengan Rasa Red Velvet bertaburkan cream cheese yang asik"
+      },
+      {
+        "menu_id": 4,
+        "name": "Es Teh Nusantara",
+        "price": "18.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/eskopicaramel.jpg",
+        "description": "Resep asli Teh Susu Nusantara dari Es Teh Indonesia"
+      },
+      {
+        "menu_id": 5,
+        "name": "Story Berry Romancheese",
+        "price": "25.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/kopisoe/kopigoelasoemerah.jpg",
+        "description": "Es Teh dengan Rasa Berry dengan paduan cream cheese"
+      }
+    ]
+  },
+  {
+    "restaurant_id": 2,
+    "items": [
+      {
+        "menu_id": 1,
+        "name": "Geprek Bensu Nasi Daun Jeruk",
+        "price": "34.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit/dfcsuperspecialnuggetfit4pcs.jpg",
+        "description": "Nasi pulen khas Geprek Bensu dengan aroma wangi dengan irisan daun jeruk yang gurih"
+      },
+      {
+        "menu_id": 2,
+        "name": "Geprek Bensu Sambal Matah",
+        "price": "43.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit/dfcgeprek.jpg",
+        "description": "Nasi putih dengan sambal matah khas bali di atas ayam"
+      },
+      {
+        "menu_id": 3,
+        "name": "Geprek Bensu Sambal Embe",
+        "price": "49.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit/dfcgeprekmeltedcheese.jpg",
+        "description": "Nasi putih dengan sambal embe khas bali di atas ayam"
+      },
+      {
+        "menu_id": 4,
+        "name": "Geprek Bensu Sambal Original",
+        "price": "43.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit/dfc1.jpg",
+        "description": "Nasi putih dengan sambal original"
+      }
+    ]
+  },
+  {
+    "restaurant_id": 3,
+    "items": [
+      {
+        "menu_id": 1,
+        "name": "Mie Gacoan",
+        "price": "14.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/bubuayammangadoel/buburayampolos.jpeg",
+        "description": "Mie Manis tidak pedas"
+      },
+      {
+        "menu_id": 2,
+        "name": "Mie Suit",
+        "price": "14.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/bubuayammangadoel/buburayamoriginal.jpg",
+        "description": "mie gurih tidak pedas"
+      },
+      {
+        "menu_id": 3,
+        "name": "Mie Hompimpa",
+        "price": "14.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/bubuayammangadoel/buburayamjumbo.jpg",
+        "description": "Mie Gurih pedas"
+      },
+      {
+        "menu_id": 4,
+        "name": "Udang Rambutan",
+        "price": "13.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/bubuayammangadoel/buburayamtelurayamrebus.jpg",
+        "description": "Isi 3 pcs"
+      }
+    ]
+  },
+  {
+    "restaurant_id": 4,
+    "items": [
+      {
+        "menu_id": 1,
+        "name": "Kober Mie Original",
+        "price": "12.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga/buburayampolos.jpg",
+        "description": "Mie dengan rasa original dan tidak pedas"
+      },
+      {
+        "menu_id": 2,
+        "name": "Kober Mie Manis",
+        "price": "12.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga/bubuayamoriginal.jpg",
+        "description": "Mie dengan rasa manis dan gurih tidak pedas"
+      },
+      {
+        "menu_id": 3,
+        "name": "Kober Mie Gurih",
+        "price": "12.000",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga/buburayampedasmanis.jpg",
+        "description": "Mie dengan rasa asin gurih dan pedas"
+      },
+      {
+        "menu_id": 4,
+        "name": "Udang Keju",
+        "price": "13.500",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga/buburayamspecial1.jpg",
+        "description": "Udang cincang dengan isian keju di dalamnya"
+      }
+    ]
+  }
+]

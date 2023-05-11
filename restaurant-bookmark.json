@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Es Teh Indonesia, Tenggilis",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/KopiSoe.PNG",
+        "address": "Jl. Tenggilis Mejoyo AI No.33, Kali Rungkut,Surabaya",
+        "rating": "4.5",
+        "price_range": "18K-25K",
+        "category": [
+            {
+                "name": "Minuman"
+            }
+        ],
+        "opening_hours": {
+            "Monday": "09:00 - 21:30",
+            "Tuesday": "09:00 - 21:30",
+            "Wednesday": "09:00 - 21:30",
+            "Thursday": "09:00 - 21:30",
+            "Friday": "09:00 - 21:30",
+            "Saturday": "09:00 - 21:30",
+            "Sunday": "09:00 - 21:30"
+        },
+        "reviews": [
+            {
+                "name": "Bondan",
+                "date": "2023",
+                "rating": 4.5,
+                "comments": "Rasa tehnya yang enak dan tempatnya nyaman  buat nongkrong"
+            },
+            {
+                "name": "Andy",
+                "date": "2023",
+                "rating": 4.0,
+                "comments": "Pelayanannya baik, baristanya ramah ramah dan tempatnya bersih"
+            },
+            {
+                "name": "Nurul",
+                "date": "2023",
+                "rating": 5.0,
+                "comments": "Tempatnya cozy, enak buat nongkrong. Pelayanan sopan + ramah. Harga worth it. Sukse Es Teh Indonesia"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Mie Gacoan, MERR",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga.PNG",
+        "address": "Jl. Dr. Ir. H. Soekarno, Penjaringan Sari,Surabaya",
+        "rating": "4.7",
+        "price_range": "13K-25K",
+        "category": [
+            {
+                "name": "Makanan"
+            }
+        ],
+        "opening_hours": {
+            "Monday": "09:00 - 23:00",
+            "Tuesday": "09:00 - 23:00",
+            "Wednesday": "09:00 - 23:00",
+            "Thursday": "09:00 - 23:00",
+            "Friday": "09:00 - 23:00",
+            "Saturday": "09:00 - 23:00",
+            "Sunday": "09:00 - 23:00"
+        },
+        "reviews": [
+            {
+                "name": "Farah",
+                "date": "2023",
+                "rating": 4.5,
+                "comments": "Tempate nyaman makanane enak... Cepat bersih service baik.... wes recommended dah"
+            },
+            {
+                "name": "Aileen",
+                "date": "2023",
+                "rating": 4.5,
+                "comments": "Menu mie & dimsum, tempatnya besar no AC, parkir besar. Untuk harga murah & ok rasanya."
+            },
+            {
+                "name": "Aulia",
+                "date": "2023",
+                "rating": 5,
+                "comments": "Uenakk pol mienya, salah satu mie recomended banget di dekat Ubaya"
+            }
+        ]
+    }
+]

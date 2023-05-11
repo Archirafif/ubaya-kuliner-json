@@ -1,0 +1,170 @@
+[
+  {
+     "id": 1,
+        "name": "Es Teh Indonesia, Tenggilis",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/KopiSoe.PNG",
+        "address": "Jl. Tenggilis Mejoyo AI No.33, Kali Rungkut,Surabaya",
+        "rating": "4.5",
+        "price_range": "18K-25K",
+        "category": [
+            {
+                "name": "Minuman"
+            }
+        ],
+        "opening_hours": {
+            "Monday": "09:00 - 21:30",
+            "Tuesday": "09:00 - 21:30",
+            "Wednesday": "09:00 - 21:30",
+            "Thursday": "09:00 - 21:30",
+            "Friday": "09:00 - 21:30",
+            "Saturday": "09:00 - 21:30",
+            "Sunday": "09:00 - 21:30"
+        },
+        "reviews": [
+            {
+                "name": "Bondan",
+                "date": "2023",
+                "rating": 4.5,
+                "comments": "Rasa tehnya yang enak dan tempatnya nyaman  buat nongkrong"
+            },
+            {
+                "name": "Andy",
+                "date": "2023",
+                "rating": 4.0,
+                "comments": "Pelayanannya baik, baristanya ramah ramah dan tempatnya bersih"
+            },
+            {
+                "name": "Nurul",
+                "date": "2023",
+                "rating": 5.0,
+                "comments": "Tempatnya cozy, enak buat nongkrong. Pelayanan sopan + ramah. Harga worth it. Sukse Es Teh Indonesia"
+            }
+        ]
+    },
+  {
+    "id": 2,
+    "name": "Geprek Bensu, Rungkut",
+    "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit.jpg",
+    "address": "Jl. Panduk No.6B, Panjang Jiwo, Surabaya",
+    "rating": "4.4",
+    "price_range": "26K-40K",
+    "category": [
+      {
+        "name": "Makanan"
+      } 
+    ],
+    "opening_hours": {
+      "Monday": "10:00 - 21:30",
+      "Tuesday": "10:00 - 21:30",
+      "Wednesday": "10:00 - 21:30",
+      "Thursday": "10:00 - 21:30",
+      "Friday": "10:00 - 21:30",
+      "Saturday": "10:00 - 21:30",
+      "Sunday": "10:00 - 21:30"
+    },
+    "reviews": [
+      {
+        "name": "Maulidia",
+        "date": "2023",
+        "rating": 5.0,
+        "comments": "Enak banget sukaa!! porsinya juga gede jadi ngenyangin, kemasan rapii dan aman"
+      },
+      {
+        "name": "Lely",
+        "date": "2023",
+        "rating": 5.0,
+        "comments": "Rasanya enak relatif murah"
+      },
+      {
+        "name": "Anna",
+        "date": "2023",
+        "rating": 4.5,
+        "comments": "Rasa sambelnya enak gurih nampol, ayamnya juga besar"
+      }
+    ]
+  },
+  {
+     "id": 3,
+        "name": "Mie Gacoan, MERR",
+        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga.PNG",
+        "address": "Jl. Dr. Ir. H. Soekarno, Penjaringan Sari,Surabaya",
+        "rating": "4.7",
+        "price_range": "13K-25K",
+        "category": [
+            {
+                "name": "Makanan"
+            }
+        ],
+        "opening_hours": {
+            "Monday": "09:00 - 23:00",
+            "Tuesday": "09:00 - 23:00",
+            "Wednesday": "09:00 - 23:00",
+            "Thursday": "09:00 - 23:00",
+            "Friday": "09:00 - 23:00",
+            "Saturday": "09:00 - 23:00",
+            "Sunday": "09:00 - 23:00"
+        },
+        "reviews": [
+            {
+                "name": "Farah",
+                "date": "2023",
+                "rating": 4.5,
+                "comments": "Tempate nyaman makanane enak... Cepat bersih service baik.... wes recommended dah"
+            },
+            {
+                "name": "Aileen",
+                "date": "2023",
+                "rating": 4.5,
+                "comments": "Menu mie & dimsum, tempatnya besar no AC, parkir besar. Untuk harga murah & ok rasanya."
+            },
+            {
+                "name": "Aulia",
+                "date": "2023",
+                "rating": 5,
+                "comments": "Uenakk pol mienya, salah satu mie recomended banget di dekat Ubaya"
+            }
+        ]
+    },
+  {
+    "id": 4,
+    "name": "Mie Kober, Kendangsari",
+    "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga.PNG",
+    "address": "Jl. Raya Kendangsari No.90, Kendangsari, Surabaya",
+    "rating": "4.7",
+    "price_range": "13K-25K",
+    "category": [
+      {
+        "name": "Makanan"
+      }
+    ],
+    "opening_hours": {
+      "Monday": "11:00 - 21:00",
+      "Tuesday": "11:00 - 21:00",
+      "Wednesday": "11:00 - 21:00",
+      "Thursday": "11:00 - 21:00",
+      "Friday": "11:00 - 21:00",
+      "Saturday": "11:00 - 21:00",
+      "Sunday": "11:00 - 21:00"
+    },
+    "reviews": [
+      {
+        "name": "Dewi",
+        "date": "2023",
+        "rating": 4.5,
+        "comments": "Menu makanannya enak² harganya murah terjangkau tempatnya luas dan nyaman"
+      },
+      {
+        "name": "Frederika",
+        "date": "2023",
+        "rating": 4.5,
+        "comments": "Untuk porsi makanan dan rasanya sudah jauh lebih baik daripada waktu terakhir saya kesana"
+      },
+      {
+        "name": "Aulia",
+        "date": "2023",
+        "rating": 5,
+        "comments": "Mienya Uwenak rasanya tdk pernah berubah & Penyajiannya pun sama top markotop"
+      }
+    ]
+  }
+]
