@@ -2,7 +2,7 @@
   {
      "id": 1,
         "name": "Es Teh Indonesia, Tenggilis",
-        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/KopiSoe.PNG",
+        "photo": "https://github.com/Archirafif/ubaya-kuliner-json/blob/main/img/estehindonesia.jpg",
         "address": "Jl. Tenggilis Mejoyo AI No.33, Kali Rungkut,Surabaya",
         "rating": "4.5",
         "price_range": "18K-25K",
@@ -44,7 +44,7 @@
   {
     "id": 2,
     "name": "Geprek Bensu, Rungkut",
-    "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/fastfit.jpg",
+    "photo": "https://github.com/Archirafif/ubaya-kuliner-json/blob/main/img/geprekbensu.jpg",
     "address": "Jl. Panduk No.6B, Panjang Jiwo, Surabaya",
     "rating": "4.4",
     "price_range": "26K-40K",
@@ -86,7 +86,7 @@
   {
      "id": 3,
         "name": "Mie Gacoan, MERR",
-        "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga.PNG",
+        "photo": "https://github.com/Archirafif/ubaya-kuliner-json/blob/main/img/miegacoan.jpg",
         "address": "Jl. Dr. Ir. H. Soekarno, Penjaringan Sari,Surabaya",
         "rating": "4.7",
         "price_range": "13K-25K",
@@ -128,7 +128,7 @@
   {
     "id": 4,
     "name": "Mie Kober, Kendangsari",
-    "photo": "https://alivianto.github.io/ubaya-kuliner-json/img/buburayamajetiga.PNG",
+    "photo": "https://github.com/Archirafif/ubaya-kuliner-json/blob/main/img/miekober.jpg",
     "address": "Jl. Raya Kendangsari No.90, Kendangsari, Surabaya",
     "rating": "4.7",
     "price_range": "13K-25K",
